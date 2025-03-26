@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre a Clínica - Clínica Médica</title>
+</head>
+<body>
+    <!-- Inclua o template.html aqui -->
+    <main>
+        <h1>Sobre a Nossa Clínica</h1>
+        <p>Somos uma clínica dedicada à saúde e bem-estar dos nossos pacientes. Contamos com profissionais qualificados e uma infraestrutura moderna.</p>
+    </main>
+</body>
+</html>
