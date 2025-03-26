@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Contato - Clínica Médica</title>
+</head>
+<body>
+    <!-- Inclua o template.html aqui -->
+    <main>
+        <h1>Contato</h1>
+        <p>Telefone: (21) 9999-1010 | WhatsApp: (21) 9999-1010</p>
+        <p>Endereço: Rua 2, 123 - Centro - Rio de Janeiro - RJ</p>
+        <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.123456789!2d-xx.xxxxx!3d-xx.xxxxx!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMsKwMzcnMDAuMSJOIDEwM8KwMDAnMjAuMCJ9!5e0!3m2!1spt-BR!2sbr!4v1612345678901!5m2!1spt-BR!2sbr" 
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <form action="#" method="post">
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome" required>
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="assunto">Assunto:</label>
+            <input type="text" id="assunto" name="assunto" required>
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="mensagem" name="mensagem" required></textarea>
+            <button type="submit">Enviar</button>
+            <button type="reset">Limpar</button>
+        </form>
+    </main>
+</body>
+</html>
